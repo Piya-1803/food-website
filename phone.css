@@ -29,11 +29,22 @@
 }
 
 #services .box { 
-    padding: 14px;
-    margin: auto;
-    margin-bottom: 20px;
+   
+   
     text-align: center;
+    
+    align-items: center;
 }
+
+#second.box{
+ 
+   margin-left: -7vh;
+}
+
+#third.box{
+    margin-right: 10vh;
+    margin-left: -10vh;
+ }
 
 /* Clients section */
 #clients{
